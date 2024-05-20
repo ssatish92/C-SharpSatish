@@ -11,3 +11,5 @@ C-Sharp.sln.DotSettings.user
 bin/
 obj/
 TestResults/
+config.bat
+node_modules
